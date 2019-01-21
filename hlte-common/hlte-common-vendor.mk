@@ -27,7 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hlte-common/proprietary/vendor/bin/radish:system/vendor/bin/radish \
     vendor/samsung/hlte-common/proprietary/vendor/bin/rfs_access:system/vendor/bin/rfs_access \
     vendor/samsung/hlte-common/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
-    vendor/samsung/hlte-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/samsung/hlte-common/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
     vendor/samsung/hlte-common/proprietary/vendor/cameradata/datapattern_420sp.yuv:system/vendor/cameradata/datapattern_420sp.yuv \
     vendor/samsung/hlte-common/proprietary/vendor/cameradata/datapattern_front_420sp.yuv:system/vendor/cameradata/datapattern_front_420sp.yuv \
